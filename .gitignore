@@ -1,3 +1,5 @@
+# Environment files: real .env files hold secrets and stay local.
+# The .env.example templates are committed.
 .env
 .env.*
 !.env.example
